@@ -1,0 +1,9 @@
+target/
+*.log
+server.out.log
+server.err.log
+cp.txt
+.idea
+*.iml
+.vscode
+.DS_Store
